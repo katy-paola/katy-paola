@@ -1,6 +1,6 @@
 # 👩‍💻 Katy Barboza
 
-**Levántate, vístete y di "Hola, mundo"**
+**Levántate, vístete y di "Hola, mundo".**
 
 🎓 Ingeniera de Sistemas con enfoque en desarrollo front-end, me gusta crear experiencias digitales funcionales y atractivas.  
 💡 Me interesa el diseño UI/UX, la interactividad web y los retos creativos que combinan código y diseño.
