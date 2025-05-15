@@ -14,7 +14,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, React, Astro, Tailwind CSS  
 - **Diseño:** Figma  
 - **Extras:** MyWebAR, Kuula, Socket.io, Git, GitHub  
 - **Enfoque:** Accesibilidad, buenas prácticas, semántica web, diseño UX/UI
@@ -22,10 +22,10 @@
 ## 📁 Algunos proyectos
 
 - ✨ [Bridroom](https://github.com/katy-paola/bridroom): Plataforma para estudiantes foráneos en Cartagena  
-- 🧠 [Generador de ideas](https://github.com/katy-paola/generador-ideas): Proyecto para hackatón con IA en colaboración con [Andrés Vizcaíno](https://github.com/pipegoods)  
-<!--- 🧪 [Interacciones en Figma](https://www.figma.com/tu-enlace): Prototipos interactivos avanzados-->
+- 🧠 [Generador de SEO](https://github.com/katy-paola/seo-ai-vercel): Proyecto para hackatón con IA en colaboración con [Andrés Vizcaíno](https://github.com/pipegoods)  
+- 🧪 [Entrada de texto editable](https://www.figma.com/proto/rGfO4ywr9YtwDtPAowjwXl/Input-editable?node-id=1-10&p=f&t=FTyrX03dKYQ2c6bQ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10): Prototipo interactivo avanzado en Figma
 
-*(Encuentra más en mis repos o en mi [portafolio](https://katybarboza.me))*.
+*(Encuentra más en mis repos)*.
 
 ## 📫 ¿Hablamos?
 
