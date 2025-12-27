@@ -30,6 +30,7 @@
 ## 📫 ¿Hablamos?
 
 📧 katybarbozabaena@gmail.com  
+🔗 [Portfolio](https://katybarboza.netlify.app/)
 🔗 [LinkedIn](https://www.linkedin.com/in/katybarboza)
 
 ---
